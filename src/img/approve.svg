@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>C21204CA-1292-491E-BBD0-7B0A50C835F1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 47.376 48 47.376 48 0 0 0"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/approve" transform="translate(1.000000, 1.000000)">
+            <g id="approve" transform="translate(-1.000000, -1.000000)">
+                <path d="M45.9553,29.8944 C46.5963,29.2534 47.0003,28.3634 47.0003,27.3774 C47.0003,25.4194 45.4093,23.8164 43.4383,23.8164 L42.2513,23.8164 C43.2363,23.8164 44.1273,23.4124 44.7683,22.7714 C45.4093,22.1304 45.8133,21.2404 45.8133,20.2544 C45.8133,18.2964 44.2223,16.6934 42.2513,16.6934 L33.1683,16.6934 C31.8723,16.6934 30.9373,15.4524 31.2943,14.2074 L32.8133,8.9054 C32.9803,8.3244 33.0513,7.7424 33.0513,7.1724 C33.0513,4.4064 31.2463,1.8664 28.4573,1.0824 C27.3643,0.7624 26.2253,1.4034 25.9163,2.4954 L24.0393,9.0604 C22.7633,13.5234 17.5223,16.9764 12.8893,16.6974 C11.5813,16.6184 10.4953,17.6564 10.4953,18.9484 L10.4953,33.5764 C10.4953,39.9874 16.8803,45.1844 23.2913,45.1844 L39.8773,45.1844 C40.8623,45.1844 41.7523,44.7814 42.3943,44.1404 C43.0353,43.4994 43.4383,42.6084 43.4383,41.6234 C43.4383,39.6644 41.8473,38.0624 39.8773,38.0624 L41.0643,38.0624 C42.0493,38.0624 42.9403,37.6584 43.5813,37.0174 C44.2223,36.3764 44.6253,35.4854 44.6253,34.5004 C44.6253,32.5414 43.0353,30.9394 41.0643,30.9394 L43.4383,30.9394 C44.4243,30.9394 45.3143,30.5354 45.9553,29.8944 Z" id="Stroke-1" stroke="#FB503B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M38.9884,23.8204 L42.2514,23.8164" id="Stroke-3" stroke="#FB503B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M38.9843,30.9391 L41.0643,30.9391" id="Stroke-5" stroke="#FB503B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M38.9843,38.0701 L39.8773,38.0621" id="Stroke-7" stroke="#FB503B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <polygon id="Stroke-9" stroke="#FB503B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="1 46.376 10.496 46.376 10.496 13.136 1 13.136"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

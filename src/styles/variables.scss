@@ -1,0 +1,19 @@
+$black: #252525;
+$gray:#ECECEC;
+$light-white:#F5F5F5;
+$red:#fb503b;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 660px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1310px
+);
+
+$container-max-widths: (
+  sm: 640px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1310px
+);

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>E4E4EC1A-9177-4E2D-9F97-318358918613</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon/check" transform="translate(1.000000, 1.000000)" stroke="#FB503B" stroke-width="2">
+            <g id="check">
+                <path d="M17,0 C26.389,0 34,7.611 34,17 C34,26.389 26.389,34 17,34 C7.611,34 0,26.389 0,17 C0,7.611 7.611,0 17,0 Z" id="Stroke-1"></path>
+                <path d="M37.5454,31.8886 L45.2454,39.5886 C46.4604,40.8036 46.1784,43.0546 44.6164,44.6166 C43.0544,46.1786 40.8034,46.4596 39.5884,45.2446 L31.8884,37.5456" id="Stroke-3"></path>
+                <path d="M30.8279,38.6061 L38.6059,30.8281" id="Stroke-5"></path>
+                <path d="M40.3739,34.717 L34.7169,40.374" id="Stroke-7"></path>
+                <path d="M29.0208,29.0208 L34.7168,34.7168" id="Stroke-9"></path>
+                <polyline id="Stroke-11" points="22.7667 13.4 15.1667 21.643 10.9237 17.4"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

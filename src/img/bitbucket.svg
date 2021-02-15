@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="45px" viewBox="0 0 50 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>E2350136-61D6-4BFE-89F8-DE2523C936EE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="108.633%" y1="13.818%" x2="46.927%" y2="78.776%" id="linearGradient-1">
+            <stop stop-color="#0052CC" offset="18%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Laraguys" transform="translate(-1151.000000, -4239.000000)">
+            <g id="Group-31" transform="translate(1141.000000, 4239.000000)">
+                <g id="bitbucket" transform="translate(10.000000, 0.000000)">
+                    <g id="Path-2" transform="translate(17.000000, 15.000000)">
+                        <polygon id="Path" points="2.82257144 15 13.4377995 15 16 0 0 0"></polygon>
+                    </g>
+                    <path d="M1.62267269,0.000134298025 C1.14936164,-0.00599135007 0.697575638,0.197703253 0.388537568,0.556562926 C0.0794994983,0.915422598 -0.0551474023,1.39270273 0.0207252214,1.86033988 L6.82128715,43.1799317 C6.9961431,44.2236931 7.8945691,44.9910989 8.95194369,44.999868 L41.5768285,44.999868 C42.3703683,45.0099886 43.0516994,44.4370756 43.1785807,43.6529978 L49.9793379,1.86835464 C50.0550883,1.40074405 49.9203577,0.923541647 49.6112907,0.564767476 C49.3022236,0.205993306 48.8504599,0.0023758679 48.3771951,0.00854001894 L1.62267269,0.000134298025 Z M30.2585091,29.8635104 L19.8454599,29.8635104 L17.0259386,15.1202669 L32.7817424,15.1202669 L30.2585091,29.8635104 Z" id="Shape" fill="#2684FF" fill-rule="nonzero"></path>
+                    <path d="M48,15 L33.0645385,15 L30.5579487,29.8028167 L20.2139213,29.8028167 L8,44.4687231 C8.38712975,44.8073113 8.88068096,44.9955774 9.39242043,44.9998645 L41.8093504,44.9998645 C42.5977024,45.010139 43.2746561,44.4349498 43.400799,43.6476539 L48,15 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

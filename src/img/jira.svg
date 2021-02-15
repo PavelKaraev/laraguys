@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>2966E02D-8BC0-43F3-B203-FEBDAFBE155B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="91.8666124%" y1="40.3276956%" x2="28.2635218%" y2="81.6596195%" id="linearGradient-1">
+            <stop stop-color="#0052CC" offset="18%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.70980871%" y1="59.1664468%" x2="72.2425722%" y2="17.9899763%" id="linearGradient-2">
+            <stop stop-color="#0052CC" offset="18%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Laraguys" transform="translate(-1151.000000, -4391.000000)">
+            <g id="Group-29" transform="translate(1151.000000, 4391.000000)">
+                <g id="jira">
+                    <path d="M47.4252685,23.1288279 L26.0700181,2.0438226 L24,0 L7.92460598,15.8719641 L0.574731453,23.1288279 C-0.191577151,23.8863812 -0.191577151,25.1136188 0.574731453,25.8711721 L15.2613791,40.3719641 L24,49 L40.075394,33.1280359 L40.3243203,32.8822598 L47.4252685,25.8711721 C48.1915772,25.1136188 48.1915772,23.8863812 47.4252685,23.1288279 Z M24,31.7439282 L16.6632269,24.5 L24,17.2560718 L31.3367731,24.5 L24,31.7439282 Z" id="path42" fill="#2684FF" fill-rule="nonzero"></path>
+                    <path d="M24,16.8646934 C19.2286804,12.2132423 19.2054267,4.67935259 23.9479463,0 L8,15.5391121 L16.6799512,24 L24,16.8646934 Z" id="path44" fill="url(#linearGradient-1)"></path>
+                    <path d="M31.3129833,25 L24,32.1094698 C26.3048355,34.3488313 27.5997938,37.3868571 27.5997938,40.5547349 C27.5997938,43.7226127 26.3048355,46.7606385 24,49 L40,33.4452651 L31.3129833,25 Z" id="path46" fill="url(#linearGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
